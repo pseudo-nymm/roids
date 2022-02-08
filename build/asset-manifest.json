@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roids/static/css/main.43983d5c.css",
+    "main.js": "/roids/static/js/main.c7e947d3.js",
+    "index.html": "/roids/index.html",
+    "main.43983d5c.css.map": "/roids/static/css/main.43983d5c.css.map",
+    "main.c7e947d3.js.map": "/roids/static/js/main.c7e947d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43983d5c.css",
+    "static/js/main.c7e947d3.js"
+  ]
+}
