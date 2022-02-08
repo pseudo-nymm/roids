@@ -1,0 +1,24 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+$min-viewport-width: 545px;
+
+/* theme colors */
+$color-lightgrey:#1e1e1e;
+$color-darkgrey:#171717;
+$color-red:#9a1c2f;
+
+/* for centering elements */
+ @mixin centered {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}  
+
+
+
+
+
