@@ -7,4 +7,4 @@ can see data such as magnitude, miss distance, etc of asteroids that are passing
 
 Since I cannot make my own API key visible, I am using the DEMO_KEY, which has pretty limited usage. Hence, the demo site may often not show any data. 
 
-![screenshot1](demo_screenshots/roids_screenshots_1)
+[screenshot1](demo_screenshots/roids_screenshots_1)
